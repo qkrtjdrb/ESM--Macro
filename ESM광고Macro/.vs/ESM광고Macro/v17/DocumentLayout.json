@@ -38,18 +38,17 @@
               "RelativeToolTip": "Resources\\PageUrls.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T08:47:55.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T08:47:55.111Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ESM\uAD11\uACE0Macro",
+              "Title": "ESM\uAD11\uACE0Macro.csproj",
               "DocumentMoniker": "C:\\Users\\qkrtj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\VSCode\\ESM\uAD11\uACE0Macro\\ESM\uAD11\uACE0Macro\\ESM\uAD11\uACE0Macro.csproj",
               "RelativeDocumentMoniker": "ESM\uAD11\uACE0Macro.csproj",
               "ToolTip": "C:\\Users\\qkrtj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\VSCode\\ESM\uAD11\uACE0Macro\\ESM\uAD11\uACE0Macro\\ESM\uAD11\uACE0Macro.csproj",
               "RelativeToolTip": "ESM\uAD11\uACE0Macro.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-14T05:35:41.789Z",
               "EditorCaption": ""
@@ -70,14 +69,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\qkrtj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\VSCode\\ESM\uAD11\uACE0Macro\\ESM\uAD11\uACE0Macro\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\qkrtj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\VSCode\\ESM\uAD11\uACE0Macro\\ESM\uAD11\uACE0Macro\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\qkrtj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\VSCode\\ESM\uAD11\uACE0Macro\\ESM\uAD11\uACE0Macro\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T00:43:33.404Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "EditorCaption": " [Design]"
             }
           ]
         }

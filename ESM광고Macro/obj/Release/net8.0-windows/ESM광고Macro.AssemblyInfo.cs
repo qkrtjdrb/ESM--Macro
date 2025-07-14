@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ESM광고Macro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6206aed234a4736573eeb5f982b3c9517dcfcabd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESM광고Macro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESM광고Macro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

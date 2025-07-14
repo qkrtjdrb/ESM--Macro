@@ -44,3 +44,4 @@ C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\D
 C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Debug\net8.0-windows\ESM광고Macro.pdb
 C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Debug\net8.0-windows\ESM광고Macro.genruntimeconfig.cache
 C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Debug\net8.0-windows\ref\ESM광고Macro.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Debug\net8.0-windows\ESM광고Macro.sourcelink.json

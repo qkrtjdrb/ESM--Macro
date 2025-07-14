@@ -21,3 +21,27 @@ C:\Users\user\source\repos\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-wind
 C:\Users\user\source\repos\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.pdb
 C:\Users\user\source\repos\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.genruntimeconfig.cache
 C:\Users\user\source\repos\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ref\ESM광고Macro.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\ESM광고Macro.exe
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\ESM광고Macro.deps.json
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\ESM광고Macro.runtimeconfig.json
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\ESM광고Macro.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\ESM광고Macro.pdb
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\SeleniumExtras.WaitHelpers.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\bin\Release\net8.0-windows\WebDriver.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.csproj.AssemblyReference.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.Form1.resources
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.csproj.GenerateResource.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.AssemblyInfoInputs.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.AssemblyInfo.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.csproj.CoreCompileInputs.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.sourcelink.json
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.csproj.Up2Date
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\refint\ESM광고Macro.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.pdb
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ESM광고Macro.genruntimeconfig.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\VSCode\ESM광고Macro\ESM광고Macro\obj\Release\net8.0-windows\ref\ESM광고Macro.dll
