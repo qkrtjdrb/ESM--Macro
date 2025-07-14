@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmLuD8pqglw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qkrtj\\OneDrive\\바탕 화면\\VSCode\\ESM광고Macro\\ESM광고Macro\\ESM광고Macro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qkrtj\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\qkrtj\\.nuget\\packages\\selenium.webdriver\\4.34.0\\selenium.webdriver.4.34.0.nupkg.sha512",
+    "C:\\Users\\qkrtj\\.nuget\\packages\\selenium.webdriver.chromedriver\\138.0.7204.9200\\selenium.webdriver.chromedriver.138.0.7204.9200.nupkg.sha512"
+  ],
+  "logs": []
+}
