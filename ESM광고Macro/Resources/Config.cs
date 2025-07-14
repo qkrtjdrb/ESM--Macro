@@ -25,7 +25,6 @@ namespace ESM광고Macro.Resources
             timer = 30;
         }
     }
-
     internal class SaveConfig
     {
         public static void SC(string filepath)

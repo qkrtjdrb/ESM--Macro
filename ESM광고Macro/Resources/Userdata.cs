@@ -8,8 +8,8 @@ namespace ESM광고Macro.Resources
 {
     internal class Userdata
     {
-        private string ID { get; set; }
-        private string PassWord { get; set; }
+        private string ID { get; set; } = "";
+        private string PassWord { get; set; } = "";
 
         private static List<Userdata> userdatas = new List<Userdata>();
 

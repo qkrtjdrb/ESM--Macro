@@ -42,7 +42,7 @@ namespace ESM광고Macro.Service
                 FilltoGrid(dgv, userdatas);
                 MessageBox.Show($"자동 불러오기 완료: {Path.GetFileName(selectedFIle)}");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 using (OpenFileDialog ofd = new OpenFileDialog())
                 {
